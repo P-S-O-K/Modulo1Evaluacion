@@ -16,3 +16,5 @@ persona:
 ## valores booleanos en yaml
 activo: true
 inactivo: false
+
+
