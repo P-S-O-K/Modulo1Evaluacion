@@ -1,0 +1,18 @@
+persona:
+  nombre: Kevin
+  edad: 26
+  profesion: Ingeniero de Sistemas
+
+  ### ejempolo de array en yaml
+  habilidades:
+    - Programación
+    - DevOps
+    - Cloud Computing
+
+# ejemplo de comentario en yaml
+# Este es otro ejemplo de formato texto en yaml
+
+
+## valores booleanos en yaml
+activo: true
+inactivo: false

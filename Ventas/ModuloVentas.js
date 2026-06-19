@@ -16,3 +16,10 @@ function generarReporteDeVentas() {
     console.log("Generando reporte de ventas...");
     // Aquí podrías agregar código para recopilar datos de ventas y generar un informe
 }
+
+// Exportar las funciones para que puedan ser utilizadas en otros módulos
+module.exports = {
+    realizarVenta,
+    mostrarProductosDisponibles,
+    generarReporteDeVentas
+};
