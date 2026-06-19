@@ -1,4 +1,4 @@
-
+git
 function realizarVenta(producto, cantidad) {
     // Lógica para procesar la venta
     console.log(`Vendiendo ${cantidad} unidades de ${producto}`);
@@ -8,5 +8,11 @@ function realizarVenta(producto, cantidad) {
 function mostrarProductosDisponibles() {
     // Lógica para mostrar los productos disponibles
     console.log("Mostrando productos disponibles...");
-    // Aquí podrías agregar código para recuperar y mostrar los productos desde una base de datos o una lista.
+    // Aquí podrías agregar código para recuperar y mostrar los productos desde una base de datos o una lista
+}
+
+function generarReporteDeVentas() {
+    // Lógica para generar un reporte de ventas
+    console.log("Generando reporte de ventas...");
+    // Aquí podrías agregar código para recopilar datos de ventas y generar un informe
 }
